@@ -1,0 +1,7 @@
+*.log
+*.lst
+*.dmp
+*.tmp
+.env
+.env.*
+~$*
